@@ -19,3 +19,10 @@ A collaborative filtering-based recommender system built using cosine similarity
 
 - 📘 Techniques: Item-based collaborative filtering, cosine similarity, sparse matrix handling, user-movie matrix creation, recommendation logic
 - 🧪 Tools: Python, Pandas, scikit-learn, Matplotlib, ipywidgets, Google Colab
+
+
+### 🔢 3. Fake News Detection & Explainability Web App
+Built an end-to-end fake news classification system using TF-IDF vectorization and a Random Forest classifier, enhanced with SHAP explainability and deployed as an interactive web app using Gradio. The pipeline supports scalable PySpark preprocessing, MLflow experiment tracking, and SQLite-based prediction logging.
+
+- 📘 Techniques: TF-IDF vectorization, Random Forest classification, SHAP explainability, ROC analysis, PySpark preprocessing, ML lifecycle tracking
+- 🧪 Tools: Python, PySpark, scikit-learn, SHAP, MLflow, Gradio, SQLite, Google Colab
