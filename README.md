@@ -26,3 +26,10 @@ Built an end-to-end fake news classification system using TF-IDF vectorization a
 
 - 📘 Techniques: TF-IDF vectorization, Random Forest classification, SHAP explainability, ROC analysis, PySpark preprocessing, ML lifecycle tracking
 - 🧪 Tools: Python, PySpark, scikit-learn, SHAP, MLflow, Gradio, SQLite, Google Colab
+
+
+### 🔢 4. Sentiment Analysis with DistilBERT Transformer
+Built a lightweight sentiment classification app using Hugging Face’s pretrained DistilBERT model, capable of identifying positive or negative sentiment in real-time. The project demonstrates fast prototyping using transformer pipelines and includes an interactive web UI powered by Gradio for end-user accessibility.
+
+- 📘 Techniques: Transformer-based sentiment classification, zero-shot inference, pipeline abstraction, real-time text prediction
+- 🧪 Tools: Python, Hugging Face Transformers, Gradio, Google Colab
