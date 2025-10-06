@@ -31,5 +31,5 @@ Built an end-to-end fake news classification system using TF-IDF vectorization a
 ### 🔢 4. Sentiment Analysis with DistilBERT Transformer
 Built a lightweight sentiment classification app using Hugging Face’s pretrained DistilBERT model, capable of identifying positive or negative sentiment in real-time. The project demonstrates fast prototyping using transformer pipelines and includes an interactive web UI powered by Gradio for end-user accessibility.
 
-- 📘 Techniques: Transformer-based sentiment classification, zero-shot inference, pipeline abstraction, real-time text prediction
+- 📘 Techniques: Transformer-based sentiment classification, pipeline abstraction, real-time text prediction
 - 🧪 Tools: Python, Hugging Face Transformers, Gradio, Google Colab
